@@ -10,7 +10,7 @@
   --tag-colour: #e5e5e5;
 
   --border: 3px solid #000;
-  --form-background: linear-gradient(to top left, #fff, #0f0f0f); 
+
 }
 
 :root.dark-mode {
