@@ -6,7 +6,7 @@
 
     /* An explicit background is required here, as it's actually transparent by default, and we
          don't want to see the shadow element behind */
-    background: var(--form-background );
+    background: var(--background-color);
 
     /* This shadow is separated from the edges by 0.75rem, and shrunk by 0.2rem on the
     top and bottom. */
